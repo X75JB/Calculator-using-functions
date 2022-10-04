@@ -1,0 +1,5 @@
+Write a program that will take two numbers as input from the user.
+
+Level 1 - Have the program print the sum, product, difference and quotient of the two numbers.
+Level 2 - Tweak the program so that it does only one of the above at the request of the user.
+Level 3 - Define a function that takes the user’s numbers and choice as parameters and it executes the operation.
